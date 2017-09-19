@@ -1,5 +1,6 @@
 // Palindrome No using reverse method
 //http://javarevisited.blogspot.in/2011/06/top-programming-interview-questions.html
+//https://www.jdoodle.com/online-java-compiler
 public class CheckPalindrome {
     public static void main(String args[]) {
         System.out.println("Code to check a String is palindrome or not");

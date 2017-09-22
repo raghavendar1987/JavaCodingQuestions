@@ -7,6 +7,9 @@
 Interview Questions
 -------------------------
 https://www.quora.com/How-do-I-prepare-for-Java-interview-for-5-years-experienced
+http://shekup.blogspot.in/2013/02/answers-to-interview-questions-on.html
+http://www.java67.com/2013/07/15-advanced-core-java-interview-questions-answers-senior-experienced-5-6-years-programmers-developers.html
+
  
 Coding Questions: 
 ----------------------------

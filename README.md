@@ -4,7 +4,12 @@
 
 //https://www.jdoodle.com/online-java-compiler
 
-Questions: 
+Interview Questions
+-------------------------
+https://www.quora.com/How-do-I-prepare-for-Java-interview-for-5-years-experienced
+ 
+Coding Questions: 
+----------------------------
 1. List out prime no from 1 to 100.**
 2. Check the given string is palindrome. **
 3. A method which will remove any given character from a String.**

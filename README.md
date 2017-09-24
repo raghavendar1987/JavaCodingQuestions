@@ -17,9 +17,9 @@ Coding Questions:
 2. Check the given string is palindrome. **
 3. A method which will remove any given character from a String.**
 4. Print all permutation of String both iterative and Recursive way.*
-5. Write a function to find out longest palindrome in a given string.
-6. How to find first non repeated character of a given String? 
-7. How to count occurrence of a given character in a String?
+5. Write a function to find out longest palindrome in a given string. *
+6. How to find first non repeated character of a given String? *
+7. How to count occurrence of a given character in a String? *
 8. How to check if two String are Anagram?
 9. How to convert numeric String to int in Java?
 10. In an array 1-100 numbers are stored, one number is missing how do you find it?

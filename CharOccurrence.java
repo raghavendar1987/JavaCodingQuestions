@@ -2,7 +2,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class CharContains {
+public class CharOccurrence {
     public static void main(String args[]) {
         String str1 = "abcdcdebcdafffdsdsfdwqeghnbvd";
     

@@ -20,9 +20,9 @@ Coding Questions:
 5. Write a function to find out longest palindrome in a given string. *
 6. How to find first non repeated character of a given String? *
 7. How to count occurrence of a given character in a String? *
-8. How to check if two String are Anagram?
-9. How to convert numeric String to int in Java?
-10. In an array 1-100 numbers are stored, one number is missing how do you find it?
+8. How to check if two String are Anagram? *
+9. How to convert numeric String to int in Java? *
+10. In an array 1-100 numbers are stored, one number is missing how do you find it? *
 11. In an array 1-100 exactly one number is duplicate how do you find it?
 12. Given two arrays, 1,2,3,4,5 and 2,3,1,0,5 find which number is not present in the second array.
 13. How do you find second highest number in an integer array?

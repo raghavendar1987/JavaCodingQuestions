@@ -34,11 +34,10 @@ Coding Questions:
 19. How do you find 3rd element from last in single pass? 
 20. How do you find if there is any loop in singly linked list? How do you find the start of the loop?
 21. How do you reverse a singly linked list?
-22. Difference between linked list and array data structure?
-23. Write code to implement Insertion Sort in Java?
-24. Write code to implement Bubble Sort in Java? 
-25. Write code to check whether a no is power of two or not? 
-26. Write code to check whether an integer is Armstrong number or not?
-27. Write a program to find all prime number up to a given numbers?
-28. Write function to compute Nth Fibonacci number? Both iterative and recursive?
-29. Write a program to find prime factors of integer?
+22. Write code to implement Insertion Sort in Java?
+23. Write code to implement Bubble Sort in Java? 
+24. Write code to check whether a no is power of two or not? 
+25. Write code to check whether an integer is Armstrong number or not?
+26. Write a program to find all prime number up to a given numbers?
+27. Write function to compute Nth Fibonacci number? Both iterative and recursive?
+28. Write a program to find prime factors of integer?

@@ -1,0 +1,39 @@
+package com.kunal.Test;
+
+import java.util.Scanner;
+
+public class CalBurn {
+
+	 public static void main(String args[]) {
+	        Scanner sc = new Scanner(System.in);
+	       int t  = sc.nextInt();
+	       for(int k=0;k<t;k++){
+	           int sum = 0;
+	           int tot_sum = 0;
+	           int asize = sc.nextInt();
+	           int arr[] = new int[asize];
+	           for(int j = 0;j<asize; j++){
+	               arr[j] = sc.nextInt();
+	           }
+	           int d1 = arr[0];
+	           for(int i = 1;i<asize;i++){
+	               if(d1<arr[i]){
+	            	   d1 = arr[i];
+	               }
+	           }
+	           int ar [] = new int[asize];
+	           ar[0] = d1;
+	           for(int i = 0, j=1;i<asize && j<asize;i++){
+	        	   if(arr[i]!= d1){
+	        		   ar[j] = arr[i];
+	        		   j++;
+	        	   }
+	           }
+	           for(int i = 0;i<asize;i++){
+	        	   tot_sum += 2*sum + ar[i];
+	        	   sum += ar[i];
+	           }
+	           System.out.println("total burn:" + tot_sum);
+	       }
+	    }
+}
